@@ -42,6 +42,6 @@ Follow these instructions to run the weather dashboard framework on your local s
 ### 1. Clone the Source
 
 ```bash
-git clone [https://github.com/amirsohail100/your-weather-repo-name.git](https://github.com/amirsohail100/your-weather-repo-name.git)
-cd your-weather-repo-name
+git clone [https://github.com/amirsohail100/HTML_CSS_JS_Weather_App.git](https://github.com/amirsohail100/HTML_CSS_JS_Weather_App.git)
+cd HTML_CSS_JS_Weather_App
 ```
